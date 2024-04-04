@@ -1,0 +1,11 @@
+fast-food.png
+https://www.flaticon.com/free-icon/fast-food_3655608?term=beverage&page=1&position=1&origin=search&related_id=3655608
+
+bus.png
+https://www.flaticon.com/free-icon/bus_3124381?term=bus&page=1&position=8&origin=search&related_id=3124381
+
+person.png
+https://www.flaticon.com/free-icon/person_3586647?term=person+car&page=1&position=4&origin=search&related_id=3586647
+
+wifi-signal.png
+https://www.flaticon.com/free-icon/wifi-signal_3208585?term=wifi+signal&page=1&position=5&origin=search&related_id=3208585
